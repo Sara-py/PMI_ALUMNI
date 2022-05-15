@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <user>
+        <name>NATHANIEL KNIGHT</name>
+        <age>22</age>
+        <email_address>ENGLAND</email_address>
+        <profession>BUSSINESSMAN</profession>
+        <faculty>ARTS</faculty>
+    </user>
+    <user>
+        <name>TAEHYUNG</name>
+        <age>26</age>
+        <email_address>TAETAE</email_address>
+        <profession>SINGER</profession>
+        <faculty>ARTS</faculty>
+    </user>
+    <user>
+        <name>SOHANA</name>
+        <age>2323</age>
+        <email_address>ghyghygu</email_address>
+        <profession>yfggy</profession>
+        <faculty>ENGINEERING</faculty>
+    </user>
+</users>

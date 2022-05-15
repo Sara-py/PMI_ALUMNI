@@ -1,0 +1,14 @@
+/*
+        This file is My Project's description.
+- My goal in this Project is to gather a small basic data of all the graduates of a university.
+-For your information, an ALUMNUS, is a student/person who have already graduated that educational institution.
+-ALUMNI is just a plural for Alumnus.
+-Here they are given 4 options:
+*1st option will list all the Students data inputted here.
+*2nd option is for newbies, who wants to add into the system.
+*3rd option is for those who wants to update their data. For their knowledge, they can't update their name in this
+if they want to update their name too, then they have to delete that previous user and enter their data all over again.
+*That is why their is 4th option, If you want to delete your user.
+Once you are done, just press the 5th option, to save your data in xml and exit.
+                Thank you!!
+*/
